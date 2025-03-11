@@ -1,4 +1,1 @@
- to view the output.txt file directly.
-
-Test it here:
-🔗 Click here to see the program output
+🔗 [Click here to see the program output](https://github.com/kiruthika09102000/code-java/blob/main/output.txt)
