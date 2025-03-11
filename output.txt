@@ -1,0 +1,7 @@
+Enter first string: listen
+Enter second string: silent
+Output: true
+
+Enter first string: hello
+Enter second string: world
+Output: false
