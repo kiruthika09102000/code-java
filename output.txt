@@ -1,3 +1,5 @@
+## Output of AnagramCheck.java
+
 Enter first string: listen
 Enter second string: silent
 Output: true
